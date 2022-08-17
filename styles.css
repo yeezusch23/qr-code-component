@@ -2,22 +2,23 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 .container {
-  width: 375px;
+  width: 320px;
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
   border-radius: 20px;
   margin: 50px auto; 
 }
-.container img {
+img {
   width: 100%;
   border-radius: 12px;
 }
-.container   h1 {
+h1 {
   text-align: center;
   font-family: 'Outfit', sans-serif;
+  font-size: 29px;
   color: hsl(218, 44%, 22%);
 }
-.container p {
+p {
   text-align: center;
   font-family: 'Outfit', sans-serif;
   font-size: 15px;
